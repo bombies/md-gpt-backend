@@ -8,7 +8,7 @@ class Message(BaseModel):
     content: str
 
 class MessageItem(BaseModel):
-    messages: list[Message] | None = None
+    messages: list[dict] | None = None
     prompt: str
 
 
