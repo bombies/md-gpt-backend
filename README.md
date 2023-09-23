@@ -40,3 +40,6 @@ Now that you have the project set up, you can run the API using Uvicorn:
 
 ```bash
 uvicorn app:app --reload
+
+## Purpose of Program
+To be used by doctors in aid of making their jobs more efficient.
