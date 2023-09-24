@@ -1,8 +1,8 @@
-# md-gpt-backend
+# MD-GPT Backend
 
-# Initializing an API with Uvicorn
+# Initializing the API with Uvicorn
 
-This guide will walk you through the steps to initialize an API using Uvicorn with the command `uvicorn app:app --reload`.
+This guide will walk you through the steps to initialize the API using Uvicorn with the command `uvicorn app:app --reload`.
 
 ## Prerequisites
 
@@ -10,7 +10,7 @@ Before you get started, make sure you have the following prerequisites installed
 
 - Python 3.x
 - Uvicorn
-- FastAPI (or your chosen web framework)
+- FastAPI
 
 ## Installation
 
